@@ -1,1 +1,1 @@
-# Sample
+# Notes on technologies
